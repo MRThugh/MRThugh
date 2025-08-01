@@ -1,60 +1,72 @@
-<h1 align="center">Hi there, I'm Ali Kamrani 👋</h1>
+<h1 align="center">Hey, I'm Ali Kamrani 👨‍💻</h1>
 <p align="center">
-  <b>Creative Developer | Language Designer | Digital Editor</b><br>
-  <i>Crafting code with personality, and tools with purpose.</i>
+  <b>Creative Developer & Digital Editor</b> <br>
+  <i>Crafting tools that speak your language.</i>
 </p>
 
 ---
 
-### 🧠 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Language+Designer;Frontend+Developer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
+---
+
+### 💡 About Me
 ```js
 const ali = {
+  name: "Ali Kamrani",
   age: 17,
-  origin: "Iran 🇮🇷",
-  role: ["Creative Coder", "Editor", "Language Designer"],
-  tools: ["JavaScript", "HTML/CSS", "Python", "VS Code", "Figma"],
-  interests: ["Creative coding", "UI/UX Design", "Language Design", "Open Source"],
-  funFact: "I’m the creator of KamraniLang – a custom programming language with its own interpreter and editor."
+  alias: "MRThugh",
+  passion: ["creative code", "minimal UI/UX", "custom tools"],
+  role: ["Developer", "Editor", "Language Architect"],
+  funProject: "KamraniLang - my own programming language 🎉",
+  basedIn: "Iran 🇮🇷",
+  motto: "Don't just use the tool, *be* the toolmaker."
 };
 ```
 
 ---
 
-### 🚀 Projects
+### 🧪 Notable Projects
 
-- 🛠️ [**KamraniLang**](https://github.com/MRThugh/kamrani-interpreter)  
-  A playful, beginner-friendly programming language with English-like syntax and a live interpreter.
+- 🔤 [**KamraniLang**](https://github.com/MRThugh/kamrani-interpreter)  
+  A playful and simple interpreted programming language with natural syntax.
 
-- 🌐 [**My Personal Website**](https://mrthugh.github.io/my-website)  
-  A portfolio site built with love, where users can send feedback via email using EmailJS.
-
----
-
-### ✨ Skills & Tools
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- 🌐 [**My Portfolio Site**](https://mrthugh.github.io/my-website)  
+  Personal website with EmailJS-powered contact form and elegant dark/light themes.
 
 ---
 
-### 📫 Contact Me
+### 🧰 Tech Stack
 
-- Email: [alikamrani13865756@gmail.com](mailto:alikamrani13865756@gmail.com)
-- Telegram: [@Thughmr](https://t.me/Thughmr)
+![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+### 📫 Let's Connect
+
+- 📧 Email: [alikamrani13865756@gmail.com](mailto:alikamrani13865756@gmail.com)
+- 💬 Telegram: [@Thughmr](https://t.me/Thughmr)
+- 🌐 Website: [mrthugh.github.io/my-website](https://mrthugh.github.io/my-website)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=MRThugh&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MRThugh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-> 💬 “Code is my canvas, and ideas are my colors.”
+> 🎯 “Build like a dev. Think like an editor.”
+
