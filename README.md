@@ -30,7 +30,7 @@ const ali = {
 
 ### 🧪 Notable Projects
 
-- 🔤 [**KamraniLang**](https://github.com/MRThugh/kamrani-interpreter)  
+- 🔤 [**KamraniLang**](https://github.com/MRThugh/kamrani-language)  
   A playful and simple interpreted programming language with natural syntax.
 
 - 🌐 [**My Portfolio Site**](https://mrthugh.github.io/my-website)  
