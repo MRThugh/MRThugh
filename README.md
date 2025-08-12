@@ -1,4 +1,4 @@
-چ<h1 align="center" style="font-weight: 900; color: #00C3FF; font-size: 3rem; margin-bottom: 0.2em;">
+<h1 align="center" style="font-weight: 900; color: #00C3FF; font-size: 3rem; margin-bottom: 0.2em;">
   Hey, I'm <span style="color:#FF6F61;">Ali Kamrani</span> 👨‍💻
 </h1>
 
