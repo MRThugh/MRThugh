@@ -24,7 +24,7 @@ alias: MRThugh
 age: 17
 location: Qazvin, Iran
 specialties: ["Creative Tools", "UI/UX Design", "Programming Languages"]
-vibe: "Builder, Designer, Gunslinger of Code"
+vibe: "Builder, Designer, Gunslinger of Design"
 ```
 
 ```
@@ -51,7 +51,7 @@ vibe: "Builder, Designer, Gunslinger of Code"
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔒 [Nahofta](https://github.com/MRThugh/Nahofta) | Message encryption tool with GUI | Python, Tkinter, Cryptography |
+| 🔒 [Nahofta](https://github.com/MRThugh/Nahofta) | Improved Password Generator | HTML, CSS, JavaScript |
 | ☁️ [Bara-PWA](https://github.com/MRThugh/bara-pwa) | Weather forecast Progressive Web App | JavaScript, PWA |
 | 📝 [KamraniLang](https://github.com/MRThugh/kamrani-language) | Beginner-friendly interpreted language | Python |
 | 🔐 [PassThugh](https://github.com/MRThugh/PassThugh-Password-Generator) | Neon-styled password generator | HTML, CSS, JavaScript |
