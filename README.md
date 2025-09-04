@@ -61,7 +61,14 @@ vibe: "Builder, Designer, Gunslinger of Design"
 
 ### ⚒️ Skills of the Gunslinger
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,flutter,git,github,figma,vscode&theme=dark" />
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,photoshop,vscode&theme=dark" />
+
+  <br>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/PicsArt-8D3DAF?style=for-the-badge&logo=picsart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alight%20Motion-0B8F96?style=for-the-badge&logo=alightmotion&logoColor=white" />
 </p>
 
 ---
