@@ -1,85 +1,82 @@
-<h1 align="center" style="font-weight: 900; color: #00C3FF; font-size: 3rem; margin-bottom: 0.2em;">
-  Hey, I'm <span style="color:#FF6F61;">Ali Kamrani</span> 👨‍💻
-</h1>
-
-<p align="center" style="font-size:1.25rem; font-weight:600; margin-top: 0;">
-  Creative Developer & Digital Editor <br />
-  <em style="color:#888;">Crafting tools that speak your language.</em>
-</p>
-
-<div align="center" style="margin: 1.5em 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Language+Designer;Frontend+Developer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000,000000&height=250&section=header&text=Welcome%20to%20MRThugh's%20Frontier&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=FFD700&fontFamily=serif)
 
 ---
 
-### 💡 About Me
+<p align="center"><i>"A gunslinger in the world of code, building tools and tales one line at a time."</i></p>
 
-```js
-const ali = {
-  name: "Ali Kamrani",
-  age: 17,
-  alias: "MRThugh",
-  passion: ["creative code", "minimal UI/UX", "custom tools"],
-  role: ["Developer", "Editor", "Language Architect"],
-  funProject: "KamraniLang - my own programming language 🎉",
-  basedIn: "Iran 🇮🇷",
-  motto: "Don't just use the tool, *be* the toolmaker."
-};
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAd/arthur-morgan-rdr2.gif" alt="Arthur Morgan" width="600"/>
+</p>
+
+---
+
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║             🪧  WANTED: CODING OUTLAW 🪧            ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+```yaml
+name: Ali Kamrani
+alias: MRThugh
+age: 17
+location: Qazvin, Iran
+specialties: ["Creative Tools", "UI/UX Design", "Programming Languages"]
+vibe: "Builder, Designer, Gunslinger of Code"
+```
+
+```
+╔════════════════════════════════════════════════════╗
+║              Keep ridin’ through the code...        ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### 🧪 Notable Projects
-
-| Project           | Description                                               | Link                                                |
-|-------------------|-----------------------------------------------------------|-----------------------------------------------------|
-| 🔤 KamraniLang    | Playful and simple interpreted programming language       | [GitHub](https://github.com/MRThugh/kamrani-language) |
-| 🌐 Portfolio Site  | Personal website with EmailJS contact & dark/light themes | [Live Site](https://mrthugh.github.io/my-website)    |
+### 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=MRThugh&theme=onedark&no-frame=true&margin-w=10)
 
 ---
 
-### 🧰 Tech Stack
+### 🔥 Streaks & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MRThugh&theme=tokyonight)
 
+![Snake Animation](https://github.com/MRThugh/MRThugh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📜 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔒 [Nahofta](https://github.com/MRThugh/Nahofta) | Message encryption tool with GUI | Python, Tkinter, Cryptography |
+| ☁️ [Bara-PWA](https://github.com/MRThugh/bara-pwa) | Weather forecast Progressive Web App | JavaScript, PWA |
+| 📝 [KamraniLang](https://github.com/MRThugh/kamrani-language) | Beginner-friendly interpreted language | Python |
+| 🔐 [PassThugh](https://github.com/MRThugh/PassThugh-Password-Generator) | Neon-styled password generator | HTML, CSS, JavaScript |
+| 🎨 [Colorify](https://github.com/MRThugh/colorify) | Color palette design & management tool | JavaScript |
+
+---
+
+### ⚒️ Skills of the Gunslinger
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,flutter,git,github,figma,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:alikamrani13865756@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-alikamrani13865756@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/Thughmr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Thughmr-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://mrthugh.github.io/my-website" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mrthugh.github.io-mywebsite-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+### 📊 Stats & Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRThugh&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=MRThugh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🌐 Social Links
+[![GitHub](https://img.shields.io/badge/GitHub-MRThugh-000000?style=for-the-badge&logo=github)](https://github.com/MRThugh)
+[![Website](https://img.shields.io/badge/Website-Frontier-darkred?style=for-the-badge&logo=firefox&logoColor=white)](https://mrthugh.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-%40mrthugh-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ---
 
-<p align="center" style="font-style: italic; color: #666;">
-  🎯 “Build like a dev. Think like an editor.”
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8B0000,000000&height=120&section=footer)
