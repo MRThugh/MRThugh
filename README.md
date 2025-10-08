@@ -46,6 +46,8 @@ vibe: "Builder, Designer, Gunslinger of Design"
 ![Snake Animation](https://github.com/MRThugh/MRThugh/blob/output/github-contribution-grid-snake.svg)
 
 ---
+### My Activity
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kamrani)](https://wakatime.com/@Kamrani)
 
 
 ### 📜 Featured Projects
