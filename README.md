@@ -85,7 +85,7 @@ vibe: "Builder, Designer, Gunslinger of Design"
 ### 🌐 Social Links
 [![GitHub](https://img.shields.io/badge/GitHub-MRThugh-000000?style=for-the-badge&logo=github)](https://github.com/MRThugh)
 [![Website](https://img.shields.io/badge/Website-Frontier-darkred?style=for-the-badge&logo=firefox&logoColor=white)](https://mrthugh.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-%40mrthugh-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40mrthugh-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamrani.exe)
 
 ---
 
