@@ -1,0 +1,94 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <!-- 3D Gradients for Flag Folds -->
+  <linearGradient id="greenFold" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#156627"/>
+    <stop offset="25%" stop-color="#239f40"/>
+    <stop offset="50%" stop-color="#156627"/>
+    <stop offset="75%" stop-color="#28b549"/>
+    <stop offset="100%" stop-color="#156627"/>
+  </linearGradient>
+
+  <linearGradient id="whiteFold" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#cccccc"/>
+    <stop offset="25%" stop-color="#ffffff"/>
+    <stop offset="50%" stop-color="#cccccc"/>
+    <stop offset="75%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#cccccc"/>
+  </linearGradient>
+
+  <linearGradient id="redFold" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#8c0000"/>
+    <stop offset="25%" stop-color="#da0000"/>
+    <stop offset="50%" stop-color="#8c0000"/>
+    <stop offset="75%" stop-color="#f50000"/>
+    <stop offset="100%" stop-color="#8c0000"/>
+  </linearGradient>
+
+  <linearGradient id="verticalTextGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#156627">
+      <animate attributeName="offset" values="-0.5; 0.2; -0.5" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%" stop-color="#ffffff">
+      <animate attributeName="offset" values="0.2; 0.8; 0.2" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#8c0000">
+      <animate attributeName="offset" values="0.8; 1.5; 0.8" dur="8s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+    <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000000" flood-opacity="0.3"/>
+  </filter>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@800&amp;display=swap');
+    
+    .bg-green { fill: url(#greenFold); }
+    .bg-white { fill: url(#whiteFold); }
+    .bg-red   { fill: url(#redFold); }
+
+    .poem {
+      /* فونت استک برای اطمینان از نمایش درست در همه سیستم‌ها */
+      font-family: 'Libre Baskerville', Baskerville, Georgia, serif;
+      font-weight: 600;
+      font-size: 65px;
+      fill: url(#verticalTextGrad);
+      
+      /* استروک خیلی ظریف برای جدا کردن متن از پس‌زمینه */
+      stroke: rgba(255,255,255,0.4);
+      stroke-width: 0.8px;
+      paint-order: stroke fill;
+
+      /* سایه ملایم برای عمق دادن */
+      filter: drop-shadow(0 4px 4px rgba(0,0,0,0.5));
+      
+      letter-spacing: -1px;
+    }
+
+    .wave-group {
+      animation: waveMotion 6s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes waveMotion {
+      0%, 100% { transform: translateY(0px) skewY(0deg); }
+      50%      { transform: translateY(-10px) skewY(0.5deg); }
+    }
+  </style>
+
+  <path id="textPathLine" d="M -100,215 Q 250,275 600,215 T 1300,215" fill="none" stroke="none"/>
+</defs>
+
+<g class="wave-group" filter="url(#shadow)">
+  <path class="bg-green" d="M -100,150 Q 250,210 600,150 T 1300,150 L 1300,-100 L -100,-100 Z" />
+  <path class="bg-white" d="M -100,150 Q 250,210 600,150 T 1300,150 L 1300,280 Q 950,220 600,280 T -100,280 Z" />
+  <path class="bg-red"   d="M -100,280 Q 250,340 600,280 T 1300,280 L 1300,500 L -100,500 Z" />
+
+  <text class="poem" dy="25">
+    <textPath href="#textPathLine" startOffset="50%" text-anchor="middle">
+    Iran Within Me, Always
+    </textPath>
+  </text>
+</g>
+</svg>
