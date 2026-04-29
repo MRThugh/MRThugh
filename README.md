@@ -1,4 +1,5 @@
 <div align="center">
+<img src="header.svg" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B91C1C&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+MRThugh's+Frontier;The+Silent+Architect;Building+Tools,+Writing+Tales;Code+is+my+Weapon..." alt="Typing SVG" />
 
@@ -68,7 +69,7 @@ return {
 
   <br><br>
   
-  <img src="https://github.com/MRThugh/MRThugh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  
 
 </div>
 
