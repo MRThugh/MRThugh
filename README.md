@@ -56,7 +56,7 @@ return {
 | **[ParsiKit](https://github.com/MRThugh/ParsiKit)** | Persian text standardization, localization & speed optimization. | `Python` `NLP Tools` |
 | **[SmartRetry](https://github.com/MRThugh/SmartRetry)** | Metaprogramming library & advanced decorator toolset. | `Python` `Metaprogramming` |
 | **[CipherVault](https://github.com/MRThugh/CipherVault)** | High-grade encryption and secure file vaulting. | `Python` `Cryptography` |
-| **[Formato](https://github.com/MRThugh/Formato-Image-Converter)** | Advanced media converter & image-to-PDF engine. | `Python` `File Handling` |
+| **[Formato](https://github.com/MRThugh/Formato-Image-Converter)** | An all‑in‑one image tool with a modern GUI for batch editing, compression, watermarking, PDF creation, and icon generation. Built with Python and CustomTkinter. | `Python` `File Handling` `pillow` `customtkinter` |
 
 ---
 
