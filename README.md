@@ -51,7 +51,7 @@ return {
 
 | 🎯 Project | 📜 Description | 🛠 Tech Stack |
 | :--- | :--- | :--- |
-| **[DarkLine](https://github.com/MRThugh/DarkLine-Messenger)** | Next-gen local network messenger with Telegram/Discord hybrid UI. | `Python` `Custom GUI` |
+| **[DarkLine](https://github.com/MRThugh/DarkLine-Messenger)** | DarkLine Messenger is a secure LAN chat app built with Python and CustomTkinter. It uses RSA + Fernet encryption, bcrypt-authenticated logins, and SQLite-backed storage to provide real-time messaging, presence tracking, and encrypted file sharing in a modern dark UI. | `Python` `customtkinter` `cryptography` `bcrypt` `Pillow` `sqlite3` |
 | **[Utility ToolBox](https://github.com/MRThugh/DeskUtility)** | Professional 1100+ line Windows utility suite. | `Python` `OS Automation` |
 | **[ParsiKit](https://github.com/MRThugh/ParsiKit)** | Persian text standardization, localization & speed optimization. | `Python` `NLP Tools` |
 | **[SmartRetry](https://github.com/MRThugh/SmartRetry)** | Metaprogramming library & advanced decorator toolset. | `Python` `Metaprogramming` |
