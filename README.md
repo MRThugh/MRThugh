@@ -42,8 +42,9 @@ return {
 ### 🩸 The Arsenal (Tech & Tools)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,tailwind,git,github,vscode,figma&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark&perline=6" />
 </div>
+
 
 ---
 
