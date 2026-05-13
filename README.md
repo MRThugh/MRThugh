@@ -19,7 +19,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/separator.svg" />
 
 ### 👤 `whoami.py`
 ```python
@@ -31,7 +31,7 @@ self.status: str = "Building in the shadows"
 self.weapons: list[str] = ["Python", "Linux", "TailwindCSS"]
 self.focus: str = "GUI Automation & High-Performance Tools"
 
-def get_manifesto(self) -> dict[, str]:
+def get_manifesto(self) -> dict[str, str]:
 return {
 "Rule 1": "Silence is chosen so the work can speak.",
 "Rule 2": "Direction over speed.",
@@ -39,7 +39,8 @@ return {
 "Rule 4": "Patience is the mortar."
 }
 ```
----
+
+<img src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/separator.svg" />
 
 ### 🩸 The Arsenal (Tech & Tools)
 
@@ -47,7 +48,7 @@ return {
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,sqlite,regex,sublime&theme=dark&perline=9" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/separator.svg" />
 
 ### ⚡ Latest Masterpieces (Python Ecosystem)
 
@@ -60,30 +61,35 @@ return {
 | **[CipherVault](https://github.com/MRThugh/CipherVault)** | High-grade encryption and secure file vaulting. | `Security` `Python` |
 | **[Formato](https://github.com/MRThugh/Formato-Image-Converter)** | All‑in‑one image tool for batch editing & PDF creation. | `Pillow` `GUI` |
 
----
+<img src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/separator.svg" />
 
 ### 📊 Vital Signs
 
 <div align="center">
+  <!-- GitHub Stats & WakaTime -->
   <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9&icon_color=B91C1C" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9&icon_color=B91C1C" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRThugh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9" width="350px" />
+<!-- WakaTime Card: Replace 'MRThugh' with your WakaTime username if different -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MRThugh&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9&layout=compact" />
 </td>
 </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRThugh&theme=react&hide_border=true&background=0D1117&ring=B91C1C&fire=B91C1C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=B91C1C&sideLabels=B91C1C&dates=8B949E" width="100%" />
-
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MRThugh&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+  
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRThugh&bg_color=0D1117&color=B91C1C&line=B91C1C&point=C9D1D9&area=true&hide_border=true" width="100%" />
+  <!-- Snake Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/MRThugh/MRThugh/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/separator.svg" />
+
 <div align="center">
   <sub>Built with 🩸 and ☕ by a <b>Silent Architect</b>.</sub>
 </div>
