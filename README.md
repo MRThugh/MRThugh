@@ -9,11 +9,13 @@
 
 *“I don’t talk about building. I just bring the bricks.”*
 
-[![Instagram](https://img.shields.io/badge/-kamrani.exe-8B0000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kamrani.exe)
-[![GitHub](https://img.shields.io/badge/-MRThugh-181717?style=flat&logo=github&logoColor=white)](https://github.com/MRThugh)
-[![Website](https://img.shields.io/badge/-Frontier-2C2C2C?style=flat&logo=firefox&logoColor=white)](https://mrthugh.github.io)
+[![Instagram](https://img.shields.io/badge/-kamrani.exe-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamrani.exe)
+[![GitHub](https://img.shields.io/badge/-MRThugh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRThugh)
+[![Website](https://img.shields.io/badge/-Frontier-2C2C2C?style=for-the-badge&logo=firefox&logoColor=white)](https://mrthugh.github.io)
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAd/arthur-morgan-rdr2.gif" alt="Outlaw Vibe" width="100%" style="border-radius: 15px;"/>
+<br>
+
+<img src="https://media.tenor.com/2roX3uxz_68AAAAd/arthur-morgan-rdr2.gif" alt="Outlaw Vibe" width="100%" style="border-radius: 15px; border: 1px solid #B91C1C;"/>
 
 </div>
 
@@ -22,14 +24,14 @@
 ### 👤 `whoami.py`
 ```python
 class MRThugh(SilentArchitect):
-def __init__(self):
-self.name = "Ali Kamrani"
-self.age = 18
-self.status = "Building in the shadows"
-self.weapons_of_choice = ["Python", "PHP", "TailwindCSS"]
-self.current_focus = "GUI Automation & High-Performance Tools"
+def __init__(self) -> None:
+self.name: str = "Ali Kamrani"
+self.age: int = 18
+self.status: str = "Building in the shadows"
+self.weapons: list[str] = ["Python", "Linux", "TailwindCSS"]
+self.focus: str = "GUI Automation & High-Performance Tools"
 
-def get_manifesto(self):
+def get_manifesto(self) -> dict[, str]:
 return {
 "Rule 1": "Silence is chosen so the work can speak.",
 "Rule 2": "Direction over speed.",
@@ -42,9 +44,8 @@ return {
 ### 🩸 The Arsenal (Tech & Tools)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,sqlite,regex,sublime&theme=dark&perline=9" />
 </div>
-
 
 ---
 
@@ -52,33 +53,37 @@ return {
 
 | 🎯 Project | 📜 Description | 🛠 Tech Stack |
 | :--- | :--- | :--- |
-| **[DarkLine](https://github.com/MRThugh/DarkLine-Messenger)** | DarkLine Messenger is a secure LAN chat app built with Python and CustomTkinter. It uses RSA + Fernet encryption, bcrypt-authenticated logins, and SQLite-backed storage to provide real-time messaging, presence tracking, and encrypted file sharing in a modern dark UI. | `Python` `customtkinter` `cryptography` `bcrypt` `Pillow` `sqlite3` |
-| **[Utility ToolBox](https://github.com/MRThugh/DeskUtility)** | Professional 1100+ line Windows utility suite. | `Python` `OS Automation` |
-| **[ParsiKit](https://github.com/MRThugh/ParsiKit)** | Persian text standardization, localization & speed optimization. | `Python` `NLP Tools` |
-| **[SmartRetry](https://github.com/MRThugh/SmartRetry)** | Metaprogramming library & advanced decorator toolset. | `Python` `Metaprogramming` |
-| **[CipherVault](https://github.com/MRThugh/CipherVault)** | High-grade encryption and secure file vaulting. | `Python` `Cryptography` |
-| **[Formato](https://github.com/MRThugh/Formato-Image-Converter)** | An all‑in‑one image tool with a modern GUI for batch editing, compression, watermarking, PDF creation, and icon generation. Built with Python and CustomTkinter. | `Python` `File Handling` `pillow` `customtkinter` |
+| **[DarkLine](https://github.com/MRThugh/DarkLine-Messenger)** | Secure LAN chat with RSA + Fernet encryption & SQLite storage. | `CustomTkinter` `Cryptography` |
+| **[Utility ToolBox](https://github.com/MRThugh/DeskUtility)** | Professional 1100+ line Windows utility suite. | `OS Automation` `Python` |
+| **[ParsiKit](https://github.com/MRThugh/ParsiKit)** | Persian text standardization & speed optimization. | `NLP Tools` `Regex` |
+| **[SmartRetry](https://github.com/MRThugh/SmartRetry)** | Metaprogramming library & advanced decorator toolset. | `Metaprogramming` |
+| **[CipherVault](https://github.com/MRThugh/CipherVault)** | High-grade encryption and secure file vaulting. | `Security` `Python` |
+| **[Formato](https://github.com/MRThugh/Formato-Image-Converter)** | All‑in‑one image tool for batch editing & PDF creation. | `Pillow` `GUI` |
 
 ---
 
 ### 📊 Vital Signs
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9&icon_color=B91C1C" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRThugh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9" width="48%" />
-
-  <br><br>
+  <table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=MRThugh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9&icon_color=B91C1C" width="400px" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRThugh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=B91C1C&text_color=C9D1D9" width="350px" />
+</td>
+</tr>
+  </table>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MRThugh&theme=react&hide_border=true&background=0D1117&ring=B91C1C&fire=B91C1C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=B91C1C&sideLabels=B91C1C&dates=8B949E" width="100%" />
 
-  <br><br>
-  
-  
+  <br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRThugh&bg_color=0D1117&color=B91C1C&line=B91C1C&point=C9D1D9&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 <div align="center">
-  <sub>Built with 🩸 and ☕ by a Silent Architect.</sub>
+  <sub>Built with 🩸 and ☕ by a <b>Silent Architect</b>.</sub>
 </div>
