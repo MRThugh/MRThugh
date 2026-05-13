@@ -66,7 +66,7 @@ return {
 ### 📊 Vital Signs
 
 <div align="center">
-  <!-- GitHub Stats & WakaTime -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamrani&theme=tokyonight" />
   <table border="0">
 <tr>
 <td>
