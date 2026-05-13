@@ -78,7 +78,7 @@ return {
 </td>
 </tr>
   </table>
-
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=MRThugh&theme=react&hide_border=true&background=0D1117&ring=B91C1C&fire=B91C1C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=B91C1C&sideLabels=B91C1C&dates=8B949E" width="100%" />
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=MRThugh&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
   
